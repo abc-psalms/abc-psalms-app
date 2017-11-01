@@ -31,7 +31,7 @@ w: d31|d32 _ d33|d34 d35|d36 _ d37|d38 d41|d42 _ d43|
 w: e31|e32 _ e33|e34 e35|e36 _ e37|e38 e41|e42 _ e43|
 w: f31|f32 _ f33|f34 f35|f36 _ f37|f38 f41|f42 _ f43|
 w: g31|g32 _ g33|g34 g35|g36 _ g37|g38 g41|g42 _ g43|
-[CF]2 [CE] | [CF]2 |] 
+[CF]2 [CE] | !fermata![CF]2 |] 
 w: a44 a45|a46|
 w: b44 b45|b46|
 w: c44 c45|c46|
@@ -48,6 +48,6 @@ V:3
 [B,,B,]2 [B,,B,] | [C,A,]2 [C,G,] | [F,A,]2 |] 
 V:4
 x | x3 | x3 | x3 | [F,A,]2  $ (F,/E,/) | x3 | x3 | x2  $ x | C,2 C, | (C, B,) [A,C] | 
-(G, C,) (D,/E,/) | x2  $ x | x3 | x3 | x2 |] 
+(G, C,) (D,/E,/) | x2  $ x | x3 | x3 | !invertedfermata!x2 |] 
 
 
