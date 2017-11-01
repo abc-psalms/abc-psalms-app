@@ -14,17 +14,17 @@ V:2 treble
 V:3 bass 
 V:4 bass 
 V:1
-[FA] | [FA] [FA] [FA] [FA] | [FA]3/2 [CF]/ [CF] $ [CF] | [DB] [FB] [EA] [EG] | [Fc]3 $ [Ec] | [Fc] [Fc] [^Fd] [FA] | [Ac] [GB] [DA] $ [DG] | [CA] [CF] [DF] [CE] | [CF]3 |] 
-w: a11|a12 a13 a14 a15|a16 a17 a18 a21|a22 a23 a24 a25|a26 a31|a32 a33 a34 a35|a36 a37 a38 a41|a42 a43 a44 a45|a46|_
-w: b11|b12 b13 b14 b15|b16 b17 b18 b21|b22 b23 b24 b25|b26 b31|b32 b33 b34 b35|b36 b37 b38 b41|b42 b43 b44 b45|b46|_
-w: c11|c12 c13 c14 c15|c16 c17 c18 c21|c22 c23 c24 c25|c26 c31|c32 c33 c34 c35|c36 c37 c38 c41|c42 c43 c44 c45|c46|_
-w: d11|d12 d13 d14 d15|d16 d17 d18 d21|d22 d23 d24 d25|d26 d31|d32 d33 d34 d35|d36 d37 d38 d41|d42 d43 d44 d45|d46|_
-w: e11|e12 e13 e14 e15|e16 e17 e18 e21|e22 e23 e24 e25|e26 e31|e32 e33 e34 e35|e36 e37 e38 e41|e42 e43 e44 e45|e46|_
-w: f11|f12 f13 f14 f15|f16 f17 f18 f21|f22 f23 f24 f25|f26 f31|f32 f33 f34 f35|f36 f37 f38 f41|f42 f43 f44 f45|f46|_
-w: g11|g12 g13 g14 g15|g16 g17 g18 g21|g22 g23 g24 g25|g26 g31|g32 g33 g34 g35|g36 g37 g38 g41|g42 g43 g44 g45|g46|_ 
+[FA]|[FA] [FA] [FA] [FA]|[FA]3/2 [CF]/ [CF] $ [CF]|[DB] [FB] [EA] [EG]|[Fc]3 $ [Ec]|[Fc] [Fc] [^Fd] [FA]|[Ac] [GB] [DA] $ [DG]|[CA] [CF] [DF] [CE]|[CF]3|] 
+w: a11|a12 a13 a14 a15|a16 a17 a18 a21|a22 a23 a24 a25|a26 a31|a32 a33 a34 a35|a36 a37 a38 a41|a42 a43 a44 a45|a46|
+w: b11|b12 b13 b14 b15|b16 b17 b18 b21|b22 b23 b24 b25|b26 b31|b32 b33 b34 b35|b36 b37 b38 b41|b42 b43 b44 b45|b46|
+w: c11|c12 c13 c14 c15|c16 c17 c18 c21|c22 c23 c24 c25|c26 c31|c32 c33 c34 c35|c36 c37 c38 c41|c42 c43 c44 c45|c46|
+w: d11|d12 d13 d14 d15|d16 d17 d18 d21|d22 d23 d24 d25|d26 d31|d32 d33 d34 d35|d36 d37 d38 d41|d42 d43 d44 d45|d46|
+w: e11|e12 e13 e14 e15|e16 e17 e18 e21|e22 e23 e24 e25|e26 e31|e32 e33 e34 e35|e36 e37 e38 e41|e42 e43 e44 e45|e46|
+w: f11|f12 f13 f14 f15|f16 f17 f18 f21|f22 f23 f24 f25|f26 f31|f32 f33 f34 f35|f36 f37 f38 f41|f42 f43 f44 f45|f46|
+w: g11|g12 g13 g14 g15|g16 g17 g18 g21|g22 g23 g24 g25|g26 g31|g32 g33 g34 g35|g36 g37 g38 g41|g42 g43 g44 g45|g46| 
 V:2
-x | x4 | x3 $ x | x4 | x3  $ x | x4 | x3 $ x | x4 | x3 |]
+x|x4|x3 $ x|x4|x3  $ x|x4|x3 $ x|x4|x3|]
 V:3
-[F,C] | [F,C] [F,C] [E,C] [D,C] | [C,C]3/2 [C,A,]/ [C,A,] $ [C,A,] | x2 C C | [A,C]3 $ [G,B,] | [F,A,] [_E,A,] [D,A,] [D,D] | [G,D] [G,,D] [A,,C] $ [B,,B,] | [C,F,] [C,A,] [C,B,] [C,B,] | [F,A,]3 |]
+[F,C]|[F,C] [F,C] [E,C] [D,C]|[C,C]3/2 [C,A,]/ [C,A,] $ [C,A,]|x2 C C|[A,C]3 $ [G,B,]|[F,A,] [_E,A,] [D,A,] [D,D]|[G,D] [G,,D] [A,,C] $ [B,,B,]|[C,F,] [C,A,] [C,B,] [C,B,]|[F,A,]3|]
 V:4
-x | x4 | x3 $ x | [C,G,] [C,D] C B, | x3 $ x | x4 | x3 $ x | x4 | x3 |]
+x|x4|x3 $ x|[C,G,] [C,D] C B,|x3 $ x|x4|x3 $ x|x4|x3|]
