@@ -14,17 +14,17 @@ V:2 treble
 V:3 bass 
 V:4 bass 
 V:1
-C | [FA]2 ([GB]/[EG]/) | c2 (B/G/) | [CF]2 [CE] | [CF]2 $ [FA] | (A G) G | =B2 [FB] | [Ec]2 $ [FA] | ([FA] [GB]) [FA] | [EG]2 [FA] | ([GB] [Ac]) [GB] | [FA]2 $ [FA] | (G B) [Dd] | [CF]2 [CE] | !fermata![CF]2 |] 
-w: a11|a12 a13 _|a14 a15 _|a16 a17|a18 a21|a22 _ a23|a24 a25|a26 a31|a32 _ a33|a34 a35|a36 _ a37|a38 a41|a42 _ a43|a44 a45|a46|
-w: b11|b12 b13 _|b14 b15 _|b16 b17|b18 b21|b22 _ b23|b24 b25|b26 b31|b32 _ b33|b34 b35|b36 _ b37|b38 b41|b42 _ b43|b44 b45|b46|
-w: c11|c12 c13 _|c14 c15 _|c16 c17|c18 c21|c22 _ c23|c24 c25|c26 c31|c32 _ c33|c34 c35|c36 _ c37|c38 c41|c42 _ c43|c44 c45|c46|
-w: d11|d12 d13 _|d14 d15 _|d16 d17|d18 d21|d22 _ d23|d24 d25|d26 d31|d32 _ d33|d34 d35|d36 _ d37|d38 d41|d42 _ d43|d44 d45|d46|
-w: e11|e12 e13 _|e14 e15 _|e16 e17|e18 e21|e22 _ e23|e24 e25|e26 e31|e32 _ e33|e34 e35|e36 _ e37|e38 e41|e42 _ e43|e44 e45|e46|
-w: f11|f12 f13 _|f14 f15 _|f16 f17|f18 f21|f22 _ f23|f24 f25|f26 f31|f32 _ f33|f34 f35|f36 _ f37|f38 f41|f42 _ f43|f44 f45|f46|
-w: g11|g12 g13 _|g14 g15 _|g16 g17|g18 g21|g22 _ g23|g24 g25|g26 g31|g32 _ g33|g34 g35|g36 _ g37|g38 g41|g42 _ g43|g44 g45|g46|
+C|[FA]2 ([GB]/[EG]/)|c2 (B/G/)|[CF]2 [CE]|[CF]2 $ [FA]|(A G) G|=B2 [FB]|[Ec]2 $ [FA]|([FA] [GB]) [FA]|[EG]2 [FA]|([GB] [Ac])[GB]|[FA]2 $ [FA]|(G B) [Dd]|[CF]2 [CE]|!fermata![CF]2|] 
+w: a11|a12 a13_|a14 a15_|a16 a17|a18 a21|a22_a23|a24 a25|a26 a31|a32_a33|a34 a35|a36_a37|a38 a41|a42_a43|a44 a45|a46|]
+w: b11|b12 b13_|b14 b15_|b16 b17|b18 b21|b22_b23|b24 b25|b26 b31|b32_b33|b34 b35|b36_b37|b38 b41|b42_b43|b44 b45|b46|]
+w: c11|c12 c13_|c14 c15_|c16 c17|c18 c21|c22_c23|c24 c25|c26 c31|c32_c33|c34 c35|c36_c37|c38 c41|c42_c43|c44 c45|c46|]
+w: d11|d12 d13_|d14 d15_|d16 d17|d18 d21|d22_d23|d24 d25|d26 d31|d32_d33|d34 d35|d36_d37|d38 d41|d42_d43|d44 d45|d46|]
+w: e11|e12 e13_|e14 e15_|e16 e17|e18 e21|e22_e23|e24 e25|e26 e31|e32_e33|e34 e35|e36_e37|e38 e41|e42_e43|e44 e45|e46|]
+w: f11|f12 f13_|f14 f15_|f16 f17|f18 f21|f22_f23|f24 f25|f26 f31|f32_f33|f34 f35|f36_f37|f38 f41|f42_f43|f44 f45|f46|]
+w: g11|g12 g13_|g14 g15_|g16 g17|g18 g21|g22_g23|g24 g25|g26 g31|g32_g33|g34 g35|g36_g37|g38 g41|g42_g43|g44 g45|g46|]
 V:2
-C | x2 (x/ x/) | (A F) D | x3 | x2  $ x | F2 F | (D G) x | x2  $ x | x3 | x3 | x3 | x2  $ x | D2 x | x3 | x2 |] 
+C|x2 (x/ x/)|(A F) D|x3|x2 $ x|F2 F|(D G) x|x2 $ x|x3|x3|x3|x2 $ x|D2 x|x3|x2|] 
 V:3
-[F,A,] | [F,C]2 [F,B,] | [F,A,]2 [B,,B,] | [C,A,]2 [C,G,] | x2  $ C | [D,=B,]2 [D,B,] | [G,D]2 [G,,D] | [C,C]2  $ [F,C] | (C G,) (A,/B,/) | C2 x | C2 C | [F,C]2  $ [F,C] | [B,,B,]2 [B,,B,] | [C,A,]2 [C,G,] | [F,A,]2 |] 
+[F,A,]|[F,C]2 [F,B,]|[F,A,]2 [B,,B,]|[C,A,]2 [C,G,]|x2 $ C|[D,=B,]2 [D,B,]|[G,D]2 [G,,D]|[C,C]2 $ [F,C]|(C G,) (A,/B,/)|C2 x|C2 C|[F,C]2 $ [F,C]|[B,,B,]2 [B,,B,]| [C,A,]2 [C,G,]|!invertedfermata![F,A,]2|] 
 V:4
-x | x3 | x3 | x3 | [F,A,]2  $ (F,/E,/) | x3 | x3 | x2  $ x | C,2 C, | (C, B,) [A,C] | (G, C,) (D,/E,/) | x2  $ x | x3 | x3 | !invertedfermata!x2 |] 
+x|x3|x3|x3|[F,A,]2 $ (F,/E,/)|x3|x3|x2 $ x|C,2 C,|(C, B,) [A,C]|(G, C,) (D,/E,/)|x2 $ x|x3|x3|x2|] 
